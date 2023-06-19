@@ -1,0 +1,29 @@
+﻿Subsector,Category,Sector,Percentage
+Energy in Agri & Fishing,Energy in Agri & Fishing,Energy,1.7
+Unallocated fuel combustion,Unallocated fuel combustion,Energy,7.8
+Fugitive emissions from energy,Fugitive emissions from energy,Energy,5.8
+Cement,Cement,Industrial processes,3
+Chemical & petrochemical (industrial),Chemical & petrochemical (industrial),Industrial processes,2.2
+Livestock & Manure,Livestock & Manure,"Agriculture, Forestry & Land Use",5.8
+Rice Cultivation,Rice Cultivation,"Agriculture, Forestry & Land Use",1.3
+Agricultural Soils,Agricultural Soils,"Agriculture, Forestry & Land Use",4.1
+Crop Burning,Crop Burning,"Agriculture, Forestry & Land Use",3.5
+Forest Land,Forest Land,"Agriculture, Forestry & Land Use",2.2
+Cropland,Cropland,"Agriculture, Forestry & Land Use",1.4
+Grassland,Grassland,"Agriculture, Forestry & Land Use",0.1
+Landfills,Landfills,Waste,1.9
+Wastewater,Wastewater,Waste,1.3
+Road,Transport,Energy,11.9
+Aviation,Transport,Energy,1.9
+Rail,Transport,Energy,0.4
+Pipeline,Transport,Energy,0.3
+Ship,Transport,Energy,1.7
+Residential,Energy in buildings,Energy,10.9
+Commercial,Energy in buildings,Energy,6.6
+Iron & Steel,Energy in industry,Energy,7.2
+Non-ferous metals,Energy in industry,Energy,0.7
+Machinery,Energy in industry,Energy,0.5
+Food and tobacco,Energy in industry,Energy,1
+"Paper, pulp & printing",Energy in industry,Energy,0.6
+Chemical & petrochemical (energy),Energy in industry,Energy,3.6
+Other industry,Energy in industry,Energy,10.6

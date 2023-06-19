@@ -1,0 +1,9 @@
+datapane
+altair
+vega_datasets
+plotly
+plotly.express
+dash
+pandas
+numpy
+networkx
